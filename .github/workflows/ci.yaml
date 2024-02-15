@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: hello
-        run: echo "hello"
+        run: echo "anh duc yang dep trai vl "
       - name: goodbye
         run: echo "goodbye"
